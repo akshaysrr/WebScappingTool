@@ -17,3 +17,5 @@ A Python application that scrapes data from websites and presents it in a struct
 -   [Beautiful Soup](https://pypi.org/project/beautifulsoup4/), Python library for scraping information from Web pages
 
 
+### Output:
+![image](https://github.com/akshaysrr/WebScappingTool/assets/121145430/11fa88e6-cef3-4f6c-bdcc-c6c12967579f)
